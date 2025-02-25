@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Jose Manuel Nieto Olmo         :octocat:     
- * :bust_in_silhouette:  Javier Mora Ortiz-Villajos     :octocat:
+ * :bust_in_silhouette:  Jose Manuel Nieto Olmo         🖌️     
+ * :bust_in_silhouette:  Javier Mora Ortiz-Villajos     🌩️
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
