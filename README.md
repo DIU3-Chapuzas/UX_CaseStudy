@@ -43,7 +43,7 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-
+Para asegurar una experiencia de usuario ideal, es crucial llevar a cabo una investigación UX organizada que integre métodos cualitativos y cuantitativos. Nuestra estrategia se orientará a comprender las verdaderas necesidades de los usuarios a través de entrevistas, estudios de campo y pruebas de usabilidad. Simultáneamente, implementaremos encuestas y análisis de métricas para corroborar los descubrimientos con datos medibles.
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
