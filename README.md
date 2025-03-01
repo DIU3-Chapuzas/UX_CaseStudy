@@ -81,11 +81,14 @@ A continuación, haremos un análisis de la competencia. Como competidores hemos
 
 <p align="justify">
 Para este apartado utilizaremos dos personas con un perfil ideal para el sector en el que vamos a trabajar.
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 </p>
 
-Por una parte, tenemos a Laura Fernández:
+ Por una parte, tenemos a Laura Fernández:
 
+ ![]()
+
+
+ >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea. 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
