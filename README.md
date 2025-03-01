@@ -64,7 +64,7 @@ El análisis de los datos permitirá mejorar la experiencia de usuario, eliminan
 Hemos decidido seleccionar la página de Espacio Casa Kuna (Taller de moda de reciclaje), ya que es la página que puede tener más defectos de las opciones disponibles. Además, preferíamos elegir el tema de la moda por encima de la artesanía, ya que tenemos más conocimientos sobre ello y nos puede resultar más sencillo.
 </p>
 <p align="justify">
-A continuación, haremos un análisis de la competencia. Como competidores hemos elegido a Ekomodo y a Ecoalf, ambas se dedican a lo mismo que la elegida y son también españolas, aunque de fuera de Granada. Para el análisis de la competencia, utilizaremos un tabla comparativa, analizando los enfoques, sus productos y la experiencia de usuario.
+A continuación, haremos un análisis de la competencia. Como competidores hemos elegido a Ekomodo y a Ecoalf, ambas se dedican a lo mismo que la elegida y son también españolas, aunque de fuera de Granada. Para el análisis de la competencia, utilizaremos un tabla comparativa, analizando los sus productos, su modelo de negocio y la experiencia de usuario.
 </p>
 
 | Proyecto| Productos | Modelo de Negocio | Usabilidad |
