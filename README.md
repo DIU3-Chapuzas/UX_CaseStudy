@@ -44,15 +44,17 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 <p align="justify">
-Para asegurar una experiencia de usuario ideal, es crucial llevar a cabo una investigación UX organizada que integre métodos cualitativos y cuantitativos. Nuestra estrategia se orientará a comprender las verdaderas necesidades de los usuarios a través de entrevistas, estudios de campo y pruebas de usabilidad. Simultáneamente, implementaremos encuestas y análisis de métricas para corroborar los descubrimientos con datos medibles.
+Para comprender mejor cómo los usuarios perciben y adoptan productos relacionados con el reciclaje y la artesanía, es esencial desarrollar un User Research Plan centrado en sus necesidades y expectativas.
 </p> 
 <p align="justify">
-El proceso se dividirá en cuatro fases: descubrimiento, exploración, prueba y escucha. En primer lugar, llevaremos a cabo entrevistas en contexto y estudios de diario para reconocer patrones de comportamiento. Posteriormente, utilizaremos técnicas como clasificación de tarjetas y mapas del recorrido del cliente para estructurar la información y identificar oportunidades de mejora. Durante la etapa de prueba, analizaremos prototipos con pruebas de usabilidad y accesibilidad. Por último, recogeremos métricas a través de encuestas y análisis de tráfico para evaluar el impacto de las soluciones implementadas.
+La investigación debe comenzar con la definición de objetivos, como identificar motivaciones, barreras y patrones de consumo en productos reciclados y artesanales. A continuación, se segmentará a los usuarios según sus hábitos de compra y valores de sostenibilidad.
 </p>
 <p align="justify">
-Este método nos permitirá conseguir información detallada y fundamentada en datos acerca de los usuarios. Asimismo, incluir a los interesados desde el comienzo asegurará que los descubrimientos se ajusten a los propósitos del proyecto y de la empresa, optimizando recursos y disminuyendo gastos de desarrollo.
-</p> 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Los métodos de investigación incluirán encuestas para recopilar datos cuantitativos sobre percepción y preferencias, entrevistas para explorar factores emocionales y pruebas de usabilidad en plataformas de comercio sostenible. También se analizará la experiencia de compra digital para detectar posibles mejoras en accesibilidad y navegación.
+</p>
+<p align="justify">
+El análisis de los datos permitirá mejorar la experiencia de usuario, eliminando obstáculos y facilitando la adopción de productos sostenibles. Con las respuestas que encontremos, se podrán diseñar estrategias más efectivas para fomentar el interés por el reciclaje y la artesanía, asegurando que la oferta responda a las expectativas del consumidor.
+</p>
 
 
 ### 1.b Competitive Analysis
