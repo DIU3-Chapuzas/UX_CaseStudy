@@ -60,8 +60,19 @@ El análisis de los datos permitirá mejorar la experiencia de usuario, eliminan
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+<p align="justify">
+Hemos decidido seleccionar la página de Espacio Casa Kuna (Taller de moda de reciclaje), ya que es la página que puede tener más defectos de las opciones disponibles. Además, preferíamos elegir el tema de la moda por encima de la artesanía, ya que tenemos más conocimientos sobre ello y nos puede resultar más sencillo.
+</p>
+<p align="justify">
+A continuación, haremos un análisis de la competencia. Como competidores hemos elegido a Ekomodo y a Ecoalf, ambas se dedican a lo mismo que la elegida y son también españolas, aunque de fuera de Granada. Para el análisis de la competencia, utilizaremos un tabla comparativa, analizando los enfoques, sus productos y la experiencia de usuario.
+</p>
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+| Proyecto| Productos | Modelo de Negocio | Usabilidad |
+|-------------------------|------------------------|-------------------|----------------|
+| **Re-Made in Granada (Casa Kuna)** | Diseño de productos hechos con materiales reciclados (textiles, madera, plástico). | Venta en tienda física y online. | Web sencilla pero poco optimizada para compras online. Podría mejorar la navegación y accesibilidad. |
+| **Ecoalf**  | Ropa, calzado y accesorios hechos con plásticos reciclados del mar, algodón orgánico y tejidos sostenibles. | Tienda online y física. Colaboraciones con iniciativas medioambientales y marcas. | Diseño moderno, navegación intuitiva y enfoque educativo sobre sostenibilidad. |
+| **Ekomodo** | Mochilas, estuches y accesorios de oficina elaborados con botellas recicladas y otros residuos textiles. | Venta online y colaboraciones con empresas para personalización de productos. | Web clara y accesible, con información detallada sobre impacto ambiental. Buena experiencia de usuario en la compra. |
+
 
 
 ### 1.c Personas
