@@ -68,7 +68,7 @@ A continuación, haremos un análisis de la competencia. Como competidores hemos
 </p>
 
 | Proyecto | Productos | Modelo de Negocio | Usabilidad | Experiencia de compra |
-|-------------------------|------------------------|-------------------|----------------|----------------|
+|-------------------|-------------------|-------------------|----------------|----------------|
 | **Re-Made in Granada (Casa Kuna)** | Diseño de productos hechos con materiales reciclados (textiles, madera, plástico). | Venta en tienda física y online. | Web sencilla pero poco optimizada para compras online. Podría mejorar la navegación y accesibilidad. | Proceso de compra confuso, falta de filtros de productos y botón de compra online que no funciona. |
 | **Ecoalf**  | Ropa, calzado y accesorios hechos con plásticos reciclados del mar, algodón orgánico y tejidos sostenibles. | Tienda online y física. Colaboraciones con iniciativas medioambientales y marcas. | Diseño moderno, navegación intuitiva y enfoque educativo sobre sostenibilidad. | Compra fluida con múltiples opciones de pago e información clara sobre envíos y devoluciones. |
 | **Ekomodo** | Mochilas, estuches y accesorios de oficina elaborados con botellas recicladas y otros residuos textiles. | Venta online y colaboraciones con empresas para personalización de productos. | Web clara y accesible, con información detallada sobre impacto ambiental. Buena experiencia de usuario en la compra. | Compra sencilla, carrito intuitivo, opciones de pago variadas e información detallada de cada producto. |
