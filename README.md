@@ -67,11 +67,11 @@ Hemos decidido seleccionar la página de Espacio Casa Kuna (Taller de moda de re
 A continuación, haremos un análisis de la competencia. Como competidores hemos elegido a Ekomodo y a Ecoalf, ambas se dedican a lo mismo que la elegida y son también españolas, aunque de fuera de Granada. Para el análisis de la competencia, utilizaremos un tabla comparativa, analizando los sus productos, su modelo de negocio y la experiencia de usuario.
 </p>
 
-| Proyecto | Productos | Modelo de Negocio | Usabilidad | Experiencia de compra |
-|-------------------|-------------------|-------------------|----------------|----------------|
-| **Re-Made in Granada (Casa Kuna)** | Diseño de productos hechos con materiales reciclados (textiles, madera, plástico). | Venta en tienda física y online. | Web sencilla pero poco optimizada para compras online. Podría mejorar la navegación y accesibilidad. | Proceso de compra confuso, falta de filtros de productos y botón de compra online que no funciona. |
-| **Ecoalf**  | Ropa, calzado y accesorios hechos con plásticos reciclados del mar, algodón orgánico y tejidos sostenibles. | Tienda online y física. Colaboraciones con iniciativas medioambientales y marcas. | Diseño moderno, navegación intuitiva y enfoque educativo sobre sostenibilidad. | Compra fluida con múltiples opciones de pago e información clara sobre envíos y devoluciones. |
-| **Ekomodo** | Mochilas, estuches y accesorios de oficina elaborados con botellas recicladas y otros residuos textiles. | Venta online y colaboraciones con empresas para personalización de productos. | Web clara y accesible, con información detallada sobre impacto ambiental. Buena experiencia de usuario en la compra. | Compra sencilla, carrito intuitivo, opciones de pago variadas e información detallada de cada producto. |
+| Proyecto | Productos | Modelo de Negocio | Usabilidad | Experiencia de compra | Estrategia de comunicación |
+|-------------------|-------------------|-------------------|----------------|----------------|-----------------|
+| **Re-Made in Granada (Casa Kuna)** | Diseño de productos hechos con materiales reciclados (textiles, madera, plástico). | Venta en tienda física y online. | Web sencilla pero poco optimizada para compras online. Podría mejorar la navegación y accesibilidad. | Proceso de compra confuso, falta de filtros de productos y botón de compra online que no funciona. | Comunicación poco estructurada sin una narrativa clara sobre sostenibilidad. |
+| **Ecoalf** | Ropa, calzado y accesorios hechos con plásticos reciclados del mar, algodón orgánico y tejidos sostenibles. | Tienda online y física. Colaboraciones con iniciativas medioambientales y marcas. | Diseño moderno, navegación intuitiva y enfoque educativo sobre sostenibilidad. | Compra fluida con múltiples opciones de pago e información clara sobre envíos y devoluciones. | Comunicación fuerte basada en storytelling y educación ambiental. Uso de embajadores y colaboraciones con influencers para reforzar el mensaje. |
+| **Ekomodo** | Mochilas, estuches y accesorios de oficina elaborados con botellas recicladas y otros residuos textiles. | Venta online y colaboraciones con empresas para personalización de productos. | Web clara y accesible, con información detallada sobre impacto ambiental. Buena experiencia de usuario en la compra. | Compra sencilla, carrito intuitivo, opciones de pago variadas e información detallada de cada producto. | Comunicación clara con enfoque en la transparencia del proceso de reciclaje. Uso de infografías y videos sobre el impacto de sus productos. |
 
 
 
@@ -86,10 +86,19 @@ Para este apartado utilizaremos dos personas con un perfil ideal para el sector 
  Por una parte, tenemos a Laura Fernández:
 
  ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/1c6f36803455a98d3297ab500d07ffca73fe8ef5/P1/Persona1.png)
+
+<p align="justify">
 Como se puede ver, a Laura le gusta la sostenibilidad, y una de sus preocupaciones es el impacto ambiental de los productos que consume, por lo que darle una segunda vida a los objetos es muy importante para ella. Por lo tanto, Laura puede ser una persona a la que le llama la atención y quiera interesarse por Re-Made Granada. 
+</p>
 
+Por otro lado, tenemos a Martín Schneider:
 
- >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea. 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P1/Persona%202.png)
+
+<p align="justify">
+Como podemos observar, a Martin le encanta descubrir productos locales durante sus viajes. Valora la originalidad y la artesanía, y prefiere llevarse recuerdos que tengan una historia detrás en lugar de simples souvenirs producidos en masa. Por lo tanto, Martin puede ser una persona a la que le llame la atención Re-Made in Granada y quiera explorar sus productos sostenibles y únicos.
+</p>
+
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
