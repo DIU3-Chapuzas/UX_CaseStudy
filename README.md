@@ -56,6 +56,8 @@ Los métodos de investigación incluirán encuestas para recopilar datos cuantit
 El análisis de los datos permitirá mejorar la experiencia de usuario, eliminando obstáculos y facilitando la adopción de productos sostenibles. Con las respuestas que encontremos, se podrán diseñar estrategias más efectivas para fomentar el interés por el reciclaje y la artesanía, asegurando que la oferta responda a las expectativas del consumidor.
 </p>
 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P1/Research%20Plan.png)
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
