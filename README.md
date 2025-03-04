@@ -121,8 +121,7 @@ Los dos journey maps presentan experiencias de usuario bastante habituales en el
 ![Método UX](img/usabilityReview.png) 
 ----
 
-- Enlace al documento (pdf):
-<p><a href="Usability Review">Usability Review</p>
+- Enlace al documento (pdf): [Usability review](P1/Usability-review.pdf)
 
 - Valoración numérica obtenida: 45 (Poor)
 
