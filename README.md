@@ -126,9 +126,18 @@ Los dos journey maps presentan experiencias de usuario bastante habituales en el
 - Valoración numérica obtenida: 45 (Poor)
 
 - Puntos fuertes detectados:
-  
+  1. La accesibilidad y la carga rápida, ya que la web funciona sin retrasos, lo que mejora la experiencia del usuario
+  2. El contenido es relevante y está bien redactado
+  3. No hay sobrecarga de contenido y el texto es bastante legible
   
 - Puntos débiles detectados:
+  1. Navegación poco intuitiva, dificultad para encontrar la información que buscas
+  2. Falta de formularios, no hay variedad de opciones
+  3. No hay filtros de búsqueda, y el buscador está poco optimizado
+  4. Escasa orientación para el usuario nuevo
+  5. Falta de indicadores de ubicación, el usuario no sabe en que parte de la web se encuentra
+  6. No hay especificaciones de los productos
+  7. Enlaces no disponibles y que no van a ninguna parte
 
 
 
