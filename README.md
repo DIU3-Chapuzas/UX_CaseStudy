@@ -121,10 +121,16 @@ Los dos journey maps presentan experiencias de usuario bastante habituales en el
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento (pdf):
+<p><a href="Usability Review">Usability Review</p>
+
+- Valoración numérica obtenida: 45 (Poor)
+
+- Puntos fuertes detectados:
+  
+  
+- Puntos débiles detectados:
+
 
 
 ### 1.f Briefing 
