@@ -105,8 +105,15 @@ Como podemos observar, a Martin le encanta descubrir productos locales durante s
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Por un lado tenemos a Laura Férnandez:
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P1/Journey%20Map%201.png)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Por otro lado, tenemos a Martín Schneider:
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P1/Journey%20Map%202.png)
+
+<p align="justify">
+Los dos journey maps presentan experiencias de usuario bastante habituales en el contexto del consumo sostenible y la artesanía reciclada. Por un lado, el caso de Laura Fernández refleja la perspectiva de un cliente local que busca actividades creativas y sostenibles, enfrentándose a dificultades en la accesibilidad de la información y el proceso de inscripción. Esto es común en plataformas que aún no han optimizado su experiencia digital. Por otro lado, la experiencia de Martin Schneider, un estudiante Erasmus, muestra cómo los turistas y jóvenes interesados en la sostenibilidad pueden encontrar barreras en la comunicación de los valores ecológicos y la accesibilidad a la compra en línea. Ambos casos reflejan desafíos reales en la adopción de productos reciclados y sostenibles, lo que resalta la importancia de mejorar la experiencia de usuario en términos de información clara, accesibilidad y optimización digital.
+</p>
 
 
 ### 1.e Usability Review
