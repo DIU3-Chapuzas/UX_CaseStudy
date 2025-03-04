@@ -75,6 +75,7 @@ A continuación, haremos un análisis de la competencia. Como competidores hemos
 | **Ecoalf** | Ropa, calzado y accesorios hechos con plásticos reciclados del mar, algodón orgánico y tejidos sostenibles. | Tienda online y física. Colaboraciones con iniciativas medioambientales y marcas. | Diseño moderno, navegación intuitiva y enfoque educativo sobre sostenibilidad. | Compra fluida con múltiples opciones de pago e información clara sobre envíos y devoluciones. | Comunicación fuerte basada en storytelling y educación ambiental. Uso de embajadores y colaboraciones con influencers para reforzar el mensaje. |
 | **Ekomodo** | Mochilas, estuches y accesorios de oficina elaborados con botellas recicladas y otros residuos textiles. | Venta online y colaboraciones con empresas para personalización de productos. | Web clara y accesible, con información detallada sobre impacto ambiental. Buena experiencia de usuario en la compra. | Compra sencilla, carrito intuitivo, opciones de pago variadas e información detallada de cada producto. | Comunicación clara con enfoque en la transparencia del proceso de reciclaje. Uso de infografías y videos sobre el impacto de sus productos. |
 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P1/Competitor%20Analysis.png)
 
 
 ### 1.c Personas
@@ -124,6 +125,21 @@ Los dos journey maps presentan experiencias de usuario bastante habituales en el
 >>> - Enlace al documento:  (xls/pdf) 
 >>> - URL y Valoración numérica obtenida: 
 >>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+
+
+### 1.f Briefing 
+![Método UX](img/Competitive.png) 
+
+<p align="justify">
+El sitio web de Re-Made in Granada presenta una propuesta de valor basada en la sostenibilidad y la artesanía local, pero enfrenta múltiples problemas de usabilidad y funcionalidad que afectan la experiencia del usuario.
+</p>
+<p align="justify">
+Uno de los principales problemas es la falta de un sistema de compra online, lo que obliga a los usuarios a acudir a la tienda física sin posibilidad de adquirir productos desde la web. Además, al hacer clic en categorías como "ropa" o "talleres", no se muestran los productos disponibles, sino únicamente la localización de la tienda, lo que dificulta la exploración del catálogo.
+</p>
+<p align="justify">
+Tampoco hay filtros de búsqueda ni opciones de inscripción a talleres, ni se proporciona información detallada sobre estos. Aunque el diseño es igual de funcional en móviles y ordenadores, la web carece de elementos clave para facilitar la navegación y mejorar la conversión. Para optimizar la experiencia, es fundamental mejorar la estructura del sitio, implementar un sistema de compra online y ofrecer información clara y accesible sobre productos y talleres.
+</p>
+----
 
 <br>
 
