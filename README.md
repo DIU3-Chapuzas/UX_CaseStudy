@@ -37,8 +37,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -88,7 +86,7 @@ Para este apartado utilizaremos dos personas con un perfil ideal para el sector 
 
  Por una parte, tenemos a Laura Fernández:
 
- ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/1c6f36803455a98d3297ab500d07ffca73fe8ef5/P1/Persona1.png)
+ ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/e81916dbf3cff3a28e424fa2a7a8b18d1afbe0bf/P1/Persona1.png)
 
 <p align="justify">
 Como se puede ver, a Laura le gusta la sostenibilidad, y una de sus preocupaciones es el impacto ambiental de los productos que consume, por lo que darle una segunda vida a los objetos es muy importante para ella. Por lo tanto, Laura puede ser una persona a la que le llama la atención y quiera interesarse por Re-Made Granada. 
