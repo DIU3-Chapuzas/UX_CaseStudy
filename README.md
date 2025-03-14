@@ -157,23 +157,38 @@ Tampoco hay filtros de búsqueda ni opciones de inscripción a talleres, ni se p
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+Para idear como podríamos reconvertir la página web, vamos a hacer uso de distinas herramientas.
+Para Laura Fernández, realizamos el siguiente Empathy Map:
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/Empathy%20Map.png)
 
+Para Martin Schneider, realizamos el siguiente Empathy Map:
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/Empathy%20Map%20Matias.png)
+
+A modo general de ambos usuarios, y para remarcar los aspectos más importantes, recurrimos también a un Feedback Capture Grid:
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20Grid.png)
+
+<p align="justify">
+El análisis de la experiencia del usuario ha revelado varias deficiencias en la plataforma actual, como la falta de información sobre los materiales reciclados, la ausencia de un catálogo en línea y la imposibilidad de realizar compras o inscribirse en talleres directamente desde la web. Estos problemas afectan tanto a clientes locales comprometidos con la sostenibilidad como a turistas interesados en adquirir recuerdos ecológicos. Además, la falta de filtros de búsqueda dificulta la navegación y la experiencia general del usuario.
+</p>
+<p align="justify">
+Si se rediseña la plataforma para incluir un catálogo digital con filtros de búsqueda y con información detallada de los productos, un sistema de compra en línea y opciones de inscripción a talleres, entonces se mejorará la experiencia del usuario, se incrementarán las conversiones y se fortalecerá la percepción de la marca como un referente en moda sostenible.
+</p>
+
+Como propuesta de valor para el nuevo diseño de la aplicación se enfocaremos en:
+- Implementar un catálogo digital con información clara sobre cada producto.
+- Agregar un sistema de compra en línea de productos.
+- Mejorar la navegación con filtros de búsqueda eficientes.
+- Incorporar opciones de inscripción a talleres de forma sencilla.
+- Incluir historias de los productos y certificaciones ecológicas para reforzar la confianza del cliente.
+- Añadir espacio para que los usuarios dejen su feedback.
+
+Con estas mejoras, se espera no solo optimizar la experiencia del usuario, sino también aumentar la fidelización y la participación activa en la comunidad de consumo responsable.  
     
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
