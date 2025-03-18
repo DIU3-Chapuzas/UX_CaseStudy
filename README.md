@@ -9,7 +9,7 @@ Actualizado: xx/xx/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Re-Chapuzeando Re-Made in Granada 
 
 Descripción: 
 
