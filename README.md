@@ -193,9 +193,12 @@ Con estas mejoras, se espera no solo optimizar la experiencia del usuario, sino 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+<p align="justify">
+Nuestro proyecto consiste en el cambio de la web de Re-Made in Granda de modo que facilite el acceso a productos ecológicos y sostenibles, permitiendo a los usuarios conocer la historia y materiales de cada artículo, comprar o reservar productos en línea e inscribirse en talleres fácilmente. Buscamos mejorar la experiencia digital y promover el consumo responsable a través de una interfaz intuitiva y accesible.
+</p>
+Con este ScopeCanvas mostramos nuestra propuesta de valor de forma más esquemática:
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/Canvas.png)
 
 
 
