@@ -9,7 +9,7 @@ Actualizado: xx/xx/2025
 
 Proyecto: 
 
->>> Re-Chapuzeando Re-Made in Granada 
+> Re-Chapuzeando Re-Made in Granada 
 
 Descripción: 
 
@@ -225,13 +225,13 @@ Con este ScopeCanvas mostramos nuestra propuesta de valor de forma más esquemá
 </p>
 
 <p align="justify">
-En primer lugar, este task flow sobre la **inscripción en un evento**, permite a los usuarios ver los cusos/talleres disponibles y conocer su información, una vez han iniciado sesión. Tras ver el evento de su interés, se pueden inscribir mediante un formulario.
+En primer lugar, este task flow sobre la <strong>inscripción en un evento</strong>, permite a los usuarios ver los cusos/talleres disponibles y conocer su información, una vez han iniciado sesión. Tras ver el evento de su interés, se pueden inscribir mediante un formulario.
 </p>
 
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/InscripcionEvento.png)
 
 <p align="justify">
-En segundo lugar, tenemos la **propuesta de un taller**, que facilita que los usuarios contribuyan con nuevas actividades en la web. Para ello completarán un formulario con la información del taller y lo enviarán para la revisión por el administrador. Finalmente, si es aceptada, se publicará en la web para las futuras inscripciones.
+En segundo lugar, tenemos la <strong>propuesta de un taller</strong>, que facilita que los usuarios contribuyan con nuevas actividades en la web. Para ello completarán un formulario con la información del taller y lo enviarán para la revisión por el administrador. Finalmente, si es aceptada, se publicará en la web para las futuras inscripciones.
 </p>
 
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/ProponerTaller.png)
