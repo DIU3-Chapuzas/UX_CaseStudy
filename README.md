@@ -210,15 +210,14 @@ Con este ScopeCanvas mostramos nuestra propuesta de valor de forma más esquemá
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
-|  | Clientes locales | Clientes extranjeros | 
-|-------------------|-------------------|-------------------|
-| **Explorar catálogo de productos** | H | H |
-| **Búsqueda de talleres disponibles** | H | M |
-| **Búsqueda de productos disponibles** | H | H |
-| **Compra de productos en línea** | H | H |
-| **Inscripción de talleres** | H | H |
-| **Consultar información sobre materiales** | H | H |
-| **Interacción con la comunidad y compartir experiencias** | L  | L |
+|  | Administrador | Cliente | Tallerista |
+|-------------------|-------------------|-------------------|-------------------|
+| **Registrarse** | H | H | H |
+| **Iniciar Sesión** | H | H | H | 
+| **Ver eventos disponibles** | H | H | M |
+| **Inscribirse en un evento** | L | H | M |
+| **Proponer talleres** | L | M | H |
+| **Administrar propuestas** | H |  |  |
 
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
