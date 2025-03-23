@@ -13,7 +13,7 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+> Nuestro propósito consiste en mejorar la experiencia y aumentar la participación en los diferentes eventos y talleres sobre productos ecológicos y sostenibles, haciendo más accesible y sencilla dicha participación, permitiendo a los usuarios inscribirse en los talleres.
 
 Logotipo: 
 
@@ -239,8 +239,6 @@ En segundo lugar, tenemos la <strong>propuesta de un taller</strong>, que facili
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 <p>
 Diagrama tipo SiteMap de la página:
 </p>
