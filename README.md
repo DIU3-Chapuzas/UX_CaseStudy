@@ -281,10 +281,10 @@ Formulario para proponer taller (tanto para el administrador como para cualquier
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/formulario_propuesta_taller_wireframe.png)
 
 Aceptar/Rechazar propuestas de taller (esta página solo aparecerá para el administrador)
-!()[https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/aceptar_rechazar_talleres_wireframe.png]
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/aceptar_rechazar_talleres_wireframe.png)
 
 Perfil (página donde el usuario después de iniciar sesión puede ver sus talleres propuestos y los talleres en los que ha participado)
-!()[https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/perfil_wireframe.png]
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/perfil_wireframe.png)
 
 <br>
 
