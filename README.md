@@ -267,8 +267,24 @@ Diagrama tipo SiteMap de la página:
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+<p>
+Para la elaboración de los wireframes, hemos usado assets de Figma para simular distribución y organización del layout en dispositivo móvil. Los wireframes realizados son:
+</p>
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Eventos (pagina donde se podrá ver la lista de eventos disponibles)
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/eventos_wireframe.png)
+
+Información y detalles de un evento (tras pulsar en un evento aparece esta página con información sobre este y permite al usuario inscribirse)
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/informaci%C3%B3n_eventos_wireframe.png)
+
+Formulario para proponer taller (tanto para el administrador como para cualquier usuario)
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/formulario_propuesta_taller_wireframe.png)
+
+Aceptar/Rechazar propuestas de taller (esta página solo aparecerá para el administrador)
+!()[https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/aceptar_rechazar_talleres_wireframe.png]
+
+Perfil (página donde el usuario después de iniciar sesión puede ver sus talleres propuestos y los talleres en los que ha participado)
+!()[https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/perfil_wireframe.png]
 
 <br>
 
