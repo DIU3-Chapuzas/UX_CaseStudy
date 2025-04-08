@@ -275,7 +275,24 @@ Para la elaboración de los wireframes, hemos usado assets de Figma para simular
 Eventos (pagina donde se podrá ver la lista de eventos disponibles):
 </p>
 
+<p>
+Formato Móvil:
+</p>
+
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P2/eventos_wireframe.png)
+
+<p>
+Formato tablet:
+</p>
+
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/154057bf822568c6a46644aacd3f63734f06f425/P2/tablet.png)
+
+<p>
+Formato portátil:
+</p>
+
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/154057bf822568c6a46644aacd3f63734f06f425/P2/pc.png)
+
 
 <p>
 Información y detalles de un evento (tras pulsar en un evento aparece esta página con información sobre este y permite al usuario inscribirse):
