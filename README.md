@@ -17,7 +17,8 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+> Transformamos residuos en oportunidades, y talleres en comunidad.
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/logo.png)
 
 Miembros:
  * :bust_in_silhouette:  Jose Manuel Nieto Olmo         🖌️     
