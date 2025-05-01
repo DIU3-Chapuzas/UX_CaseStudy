@@ -361,9 +361,8 @@ La interfaz sigue una línea visual coherente basada en una paleta vibrante que 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-Para ver el Mockup de nuestra app, pincha en el siguiente enlace:
+Para ver el Mockup de nuestra app, pincha en el siguiente enlace: [Mockup](https://www.figma.com/proto/FBpQDvxuBkQqk5P5IQToUs/Guidelines?page-id=0%3A1&node-id=1-30&viewport=218%2C182%2C0.5&t=QYw9I2DyRinXMNpW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A30)
 
-![Mockup](https://www.figma.com/proto/FBpQDvxuBkQqk5P5IQToUs/Guidelines?page-id=0%3A1&node-id=1-30&viewport=218%2C182%2C0.5&t=QYw9I2DyRinXMNpW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A30)
 
 
 
