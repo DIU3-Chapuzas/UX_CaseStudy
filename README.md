@@ -340,8 +340,11 @@ Este es el moodboard para nuestro proyecto que incluye:
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
+<p align="justify">
+Nuestra landing page nace con el objetivo de atraer y conectar con personas interesadas en la sostenibilidad y la creatividad, facilitando su participación en talleres mediante un diseño claro, accesible y orientado a la acción. A través de esta plataforma buscamos fidelizar al público mediante una experiencia organizada, visualmente atractiva y centrada en la comunidad.
+</p>
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Landing%20Page.png)
 
 
 ### 3.c Guidelines
