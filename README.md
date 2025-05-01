@@ -322,17 +322,19 @@ Aceptar/Rechazar propuestas de taller (esta página solo aparecerá para el admi
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Este es el moodboard para nuestro proyecto que incluye:
+- La estrategia de la marca.
+- El logo final.
+- El eslogan.
+- La paleta de colores.
+- La tipografía.
+- Imágenes de como serán los talleres.
 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Moodboard.png)
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
