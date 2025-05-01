@@ -350,9 +350,12 @@ Nuestra landing page nace con el objetivo de atraer y conectar con personas inte
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
+<p align="justify">
+La interfaz sigue una línea visual coherente basada en una paleta vibrante que combina tonos fucsia y morado, reforzando la identidad colorida y artesanal de Re-Made in Granada. Se han definido patrones de navegación claros y accesibles: botones con gran contraste y llamadas a la acción destacadas, formularios simplificados para facilitar la inscripción, y menús estructurados que priorizan la experiencia móvil. Las tarjetas de talleres están diseñadas para ser visuales e informativas, permitiendo una lectura rápida y efectiva. Además, el sistema incluye componentes reutilizables como modales, formularios y elementos de login, garantizando coherencia y facilidad de uso en toda la aplicación.
+</p>
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Guidelines.png)
+
 
 
 ### 3.d Mockup
