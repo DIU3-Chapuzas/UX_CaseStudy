@@ -361,7 +361,7 @@ La interfaz sigue una línea visual coherente basada en una paleta vibrante que 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
-Para ver el Mockup de nuestra app, pincha en el siguiente enlace: [Mockup](https://www.figma.com/proto/FBpQDvxuBkQqk5P5IQToUs/Guidelines?page-id=0%3A1&node-id=1-30&viewport=218%2C182%2C0.5&t=QYw9I2DyRinXMNpW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A30)
+Para ver el Mockup de nuestra app, para la parte del usuario, pincha en el siguiente enlace: [Mockup](https://www.figma.com/proto/FBpQDvxuBkQqk5P5IQToUs/Guidelines?page-id=0%3A1&node-id=1-30&viewport=218%2C182%2C0.5&t=QYw9I2DyRinXMNpW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A30)
 
 
 
@@ -369,9 +369,13 @@ Para ver el Mockup de nuestra app, pincha en el siguiente enlace: [Mockup](https
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
 -----
+Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado en este mismo Readme de Github:
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Low-fi%20Wireframe%20Template%20(Community).png)
+
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Task%20Flow.png)
+
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Resumen.png)
 
 <br>
 
