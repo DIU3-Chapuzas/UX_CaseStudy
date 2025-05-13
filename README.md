@@ -390,12 +390,12 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| IDUsuario | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| 1  | H / 23   | empresario  | Alta       | Introvertido | móvil      | A 
+| 2  | M / 24  | Opositora  | Media       | Ocupada y artista       | móvil      | A 
+| 3  | H / 23   | Estudiante   | Alta      | Tranquilo y atento   | móvil      | B 
+| 4  | H / 23   | Estudiante  | Alta      | Extrovertido e impaciente    | móvil      | B 
 
 
 ### 4.b Diseño de las pruebas 
