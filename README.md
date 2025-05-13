@@ -377,6 +377,8 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/Resumen.png)
 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/aef8ece9ce1cb5c62afb1b0e8c86daba2afb1fc3/P3/resumen-mockup.png)
+
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
