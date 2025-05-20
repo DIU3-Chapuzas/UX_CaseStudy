@@ -428,6 +428,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/eye-tracking.png)
 ----
 
+<p align="justify">
+Respecto a este método, hemos utilizado la herramienta <strong>Gaze Recorder</strong>. Para ello utilizaremos diferentes imágenes del prototipo a evaluar. Respecto a cómo se realizará las pruebas, se llevaron a cabo en clase con dos compañeros, bajo nuestra supervisión y dando una serie de instrucciones a estos usuarios para que hagan una tarea en concreto y a partir de ello realizar la evaluación. Definiremos el área de interés (AOI) por boceto que deben reconocer, dejando para ello de 4 a 6 segundos por imagen.
+
+ Para el análisis también hacemos uso de un usuario experto que ya ha utilizado la página y que la conoce, sabiendo donde se encuentran las cosas para acceder rápidamente, y luego los otros usuarios que reclutamos. Esto nos permite comprobar las diferencias existentes entre ambos públicos, y analizar el prototipo que hemos desarrollado. 
+</p>
+ 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 
