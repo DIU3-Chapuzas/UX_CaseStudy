@@ -6,29 +6,24 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (Granada Bites)
 
-### (Fecha)
-
-
+### (27/05/2025)
 
 
 
-[img Proyecto]
 
-[Enlace a GITHUB del proyecto]
 
+![](https://github.com/pabloferugr/UX_CaseStudy/blob/master/P3/logo2.png)
+
+[https://github.com/pabloferugr/UX_CaseStudy]
 
 
 
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
+Equipo Re-Made in Granada.
 
 
 
@@ -38,7 +33,7 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+Granada Bites es una aplicación web orientada a ofrecer talleres gastronómicos con un enfoque de ocio y aprendizaje. La idea es que los usuarios puedan divertirse mientras aprenden nuevas recetas y técnicas culinarias. El sitio busca atraer tanto a locales como a turistas interesados en experiencias gastronómicas creativas.
 
  
 
@@ -48,10 +43,7 @@
 
 
 
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
+Este documento recoge los resultados obtenidos tras aplicar nuestras pruebas al prototipo de Granada Bites. Se identificaron diversos problemas de navegación e interacción que afectan a la experiencia del usuario, como la falta de claridad para inscribirse en talleres y la ausencia de un sistema de inicio de sesión. Aunque el diseño resulta atractivo visualmente, la falta de estructuras claras limita su eficacia funcional.
 
 
 
