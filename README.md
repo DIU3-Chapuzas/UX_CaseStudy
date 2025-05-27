@@ -410,8 +410,25 @@ Este caso llamado **Granada Cooking** consiste en ofrecer talleres de cocina en 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
+<p align="justify">
+Para evaluar la usabilidad y experiencia de usuario, tanto de nuestra propuesta como la de "Granada Cooking", hemos diseñado una prueba que combina observación libre, cuestionarios específicos y el estándar System Usability Scale (SUS).
+</p>
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+En primer lugar, se aplicará un cuestionario propio estructurado en dos partes:
+<p align="justify">
+- Una tarea guiada inicial, donde se invita al usuario a navegar libremente por la aplicación e intentar inscribirse en un taller.
+- A continuación, se le presentan nueve preguntas que recogen su experiencia de uso, incluyendo aspectos como la facilidad para iniciar sesión, la navegación desde dispositivos móviles, la claridad de los botones y enlaces, posibles elementos confusos, percepción del diseño visual y valoración general. Algunas preguntas incluyen escalas de valoración del 1 al 10, y otras son abiertas para recoger impresiones más cualitativas.
+ </p>
+
+Este mismo cuestionario será aplicado tanto a nuestro proyecto como al de otro grupo, para poder realizar una comparación más rica y objetiva.
+
+<p align="justify">
+Además, se realizará una prueba de eye tracking exclusivamente sobre el proyecto de "Granada Cooking", lo cual permitirá observar de forma más precisa los puntos de atención y posibles bloqueos visuales del diseño analizado.
+</p>
+
+<p align="justify">
+Finalmente, se aplicará el cuestionario SUS a ambos proyectos, como método estandarizado para evaluar la percepción general de usabilidad. Esta herramienta facilitará obtener una puntuación comparativa cuantitativa y así validar las fortalezas y debilidades de cada propuesta.
+</p>
 
 
 
