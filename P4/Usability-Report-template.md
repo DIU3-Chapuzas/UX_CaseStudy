@@ -56,7 +56,11 @@ Este documento recoge los resultados obtenidos tras aplicar nuestras pruebas al 
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+- Prueba remota mediante el uso de la plataforma Maze.
+- Se utilizó un cuestionario propio con preguntas abiertas y cerradas mediante la plataforma Maze.
+- Se utilzó cuestionario SUS.
+- Se realizó A/B Testing entre nuestro proyecto y el de Granada Bites.
+- El proyecto Granada Bites también fue evaluado con técnicas de eye tracking.
 
  
 
