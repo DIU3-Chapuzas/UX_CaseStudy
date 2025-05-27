@@ -436,11 +436,15 @@ Finalmente, se aplicará el cuestionario SUS a ambos proyectos, como método est
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+<p align="justify">
+Hemos utilizado como parte de la prueba A/B testing, utilizando el formulario de Google que se adjunta en la práctica, pasando sus resultados a una hoja de cálculo para mostrar los resultados de la encuesta. Posteriormente, hemos calculado el resultado según la puntuación SUS para interpretar los resultado finales de la usabilidad de las diferentes aplicaciones. A continuación, se puede observar la tabla con los resultados del cuestionario SUS:
+</p>
 
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/45601a7c9d8ba901fb8452ccb62311957ee41b00/P4/FormularioSUS.png)
+
+<p align="justify">
+Como se puede ver en la imagen, el prototipo evaluado A ha salido mejor parado que el B (GranadaBites), con una puntuación ligeramente superior en los diferentes encuestados. Se puede observar que ha sido más complicada de navegar, su facilidad para navegar es menor. Además de disponer de menor contenido y funcionalidades disponibles.
+</p>
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
