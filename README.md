@@ -437,7 +437,7 @@ Finalmente, se aplicará el cuestionario SUS a ambos proyectos, como método est
 ----
 
 <p align="justify">
-Hemos utilizado como parte de la prueba A/B testing, utilizando el formulario de Google que se adjunta en la práctica, pasando sus resultados a una hoja de cálculo para mostrar los resultados de la encuesta. Posteriormente, hemos calculado el resultado según la puntuación SUS para interpretar los resultado finales de la usabilidad de las diferentes aplicaciones. A continuación, se puede observar la tabla con los resultados del cuestionario SUS:
+Hemos utilizado como parte de la prueba A/B testing el formulario de Google que se adjunta en la práctica, pasando sus resultados a una hoja de cálculo para mostrar las respuestas de la encuesta. Posteriormente, hemos calculado el resultado según la puntuación SUS para interpretar los resultado finales de la usabilidad de las diferentes aplicaciones. A continuación, se puede observar la tabla con los resultados del cuestionario SUS:
 </p>
 
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/45601a7c9d8ba901fb8452ccb62311957ee41b00/P4/FormularioSUS.png)
