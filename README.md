@@ -466,9 +466,12 @@ Los criterios de evaluación usados son:
 - Valoración general del usuario (pregunta final).
 
 Resultado del A/B Testing:
-Según las respuestas recogidas en el cuestionario, la versión A (nuestra propuesta) ha sido percibida como más usable. La mayoría de usuarios indicó que logró completar la tarea principal con mayor facilidad, consideró el diseño más intuitivo y valoró positivamente la estructura clara y el contraste visual. En comparación, la versión B presentó más dificultades en la identificación de elementos interactivos y una navegación menos fluida.
+- ![Resultados A](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Maze-Report_Usabilty%20Testing%20A_27_5_2025.pdf)
+- ![Resultados B](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Maze-Report_Usability%20Testing%20B_27_5_2025.pdf)
 
-Por tanto, se concluye que la versión A es más usable según los resultados del cuestionario, especialmente en cuanto a experiencia móvil, claridad visual y orientación del usuario hacia la acción principal.
+Según las respuestas recogidas en el cuestionario, la propuesta A (nuestra propuesta) ha sido percibida como más usable. La mayoría de usuarios indicó que logró completar la tarea principal con mayor facilidad, consideró el diseño más intuitivo y valoró positivamente la estructura clara y el contraste visual. En comparación, la versión B presentó más dificultades en la identificación de elementos interactivos y una navegación menos fluida.
+
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
