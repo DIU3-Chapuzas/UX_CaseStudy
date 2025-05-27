@@ -1,11 +1,11 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario
 
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU3_Chapuzas.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 05/2025
 
 Proyecto: 
 
@@ -18,23 +18,16 @@ Descripción:
 Logotipo: 
 
 > Transformamos residuos en oportunidades, y talleres en comunidad.
+
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P3/logo.png)
 
 Miembros:
  * :bust_in_silhouette:  Jose Manuel Nieto Olmo         🖌️     
  * :bust_in_silhouette:  Javier Mora Ortiz-Villajos     🌩️
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
 
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
 # Proceso de Diseño 
-
-<br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
@@ -393,11 +386,11 @@ https://github.com/pabloferugr/UX_CaseStudy
 Este caso llamado **Granada Bites** consiste en ofrecer talleres de cocina en Granada, cuyo público objetivo son principalmente turistas y locales que buscan experiencias en el sector de la gastronomía.
 
 
-Tabla y asignación de personas ficticias (o reales) a las pruebas:
+Tabla y asignación de personas reales a las pruebas:
 
 | IDUsuario | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| 1  | H / 23   | empresario  | Alta       | Introvertido | móvil      | A 
+| 1  | H / 23   | Empresario  | Alta       | Introvertido | móvil      | A 
 | 2  | M / 24  | Opositora  | Media       | Ocupada y artista       | móvil      | A 
 | 3  | H / 23   | Estudiante   | Alta      | Tranquilo y atento   | móvil      | B 
 | 4  | H / 23   | Estudiante  | Alta      | Extrovertido e impaciente    | móvil      | B 
@@ -411,10 +404,9 @@ Para evaluar la usabilidad y experiencia de usuario, tanto de nuestra propuesta 
 </p>
 
 En primer lugar, se aplicará un cuestionario propio estructurado en dos partes:
-<p align="justify">
-- Una tarea guiada inicial, donde se invita al usuario a navegar libremente por la aplicación e intentar inscribirse en un taller.
-- A continuación, se le presentan nueve preguntas que recogen su experiencia de uso, incluyendo aspectos como la facilidad para iniciar sesión, la navegación desde dispositivos móviles, la claridad de los botones y enlaces, posibles elementos confusos, percepción del diseño visual y valoración general. Algunas preguntas incluyen escalas de valoración del 1 al 10, y otras son abiertas para recoger impresiones más cualitativas.
- </p>
+
+ 1. Una tarea guiada inicial, donde se invita al usuario a navegar libremente por la aplicación e intentar inscribirse en un taller.
+ 2. A continuación, se le presentan nueve preguntas que recogen su experiencia de uso, incluyendo aspectos como la facilidad para iniciar sesión, la navegación desde dispositivos móviles, la claridad de los botones y enlaces, posibles elementos confusos, percepción del diseño visual y valoración general. Algunas preguntas incluyen escalas de valoración del 1 al 10, y otras son abiertas para recoger impresiones más cualitativas.
 
 Este mismo cuestionario será aplicado tanto a nuestro proyecto como al de otro grupo, para poder realizar una comparación más rica y objetiva.
 
@@ -449,7 +441,7 @@ Como se puede ver en la imagen, el prototipo evaluado A ha salido mejor parado q
 Para llevar a cabo el A/B Testing, se han comparado:
 - Proyecto A: nuestra propuesta de "Re-Chapuzeando Re-Made in Granada".
 - Proyecto B: la propuesta de diseño realizada por otro grupo de "Granada Bites".
-- 
+ 
 <p align="justify">
 Ambas versiones han sido evaluadas utilizando el cuestionario propio diseñado previamente, el cual incluye una tarea guiada (apuntarse a un taller) y nueve preguntas relacionadas con la facilidad de navegación, claridad visual, interacción con elementos, y percepción general del diseño. En los siguientes enlaces podemos ver los cuestionaros para la propuesta A y la propuesta B respectivamente:
 </p>
@@ -501,10 +493,11 @@ Como podemos observar, en la última imagen del eye tracking, no se fijan apenas
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
+<p>
+A continuación se encuentra el enlace a la plantilla rellena con el Usability Report de B:
+</p>
 
-(Usabilty Report de Granada Bites)[https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Usability-Report-template.md]
-
-
+![Usabilty Report de Granada Bites](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Usability-Report-template.md)
 
 <br>
 
