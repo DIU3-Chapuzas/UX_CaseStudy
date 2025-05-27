@@ -388,6 +388,13 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 -----
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
+
+El caso asignado finalmente ha sido:
+https://github.com/pabloferugr/UX_CaseStudy
+
+Este caso llamado **Granada Cooking** consiste en ofrecer talleres de cocina en Granada, cuyo público objetivo son principalmente turistas y locales que buscan experiencias en el sector de la gastronomía.
+
+
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
