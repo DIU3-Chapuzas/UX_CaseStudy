@@ -503,10 +503,7 @@ Debido a que el landing page eran cuatro pantallas que se utilizan en la aplicac
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+(Usabilty Report de Granada Bites)[https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Usability-Report-template.md]
 
 
 
