@@ -453,10 +453,14 @@ Como se puede ver en la imagen, el prototipo evaluado A ha salido mejor parado q
 Para llevar a cabo el A/B Testing, se han comparado:
 - Proyecto A: nuestra propuesta de "Re-Chapuzeando Re-Made in Granada".
 - Proyecto B: la propuesta de diseño realizada por otro grupo de "Cooking Granada".
-
+- 
+<p align="justify">
 Ambas versiones han sido evaluadas utilizando el cuestionario propio diseñado previamente, el cual incluye una tarea guiada (apuntarse a un taller) y nueve preguntas relacionadas con la facilidad de navegación, claridad visual, interacción con elementos, y percepción general del diseño. En los siguientes enlaces podemos ver los cuestionaros para la propuesta A y la propuesta B respectivamente:
+</p>
+
 - https://t.maze.co/389415689
 - https://t.maze.co/389444902
+
 
 Los criterios de evaluación usados son:
 - Facilidad para completar la tarea principal (inscribirse a un taller).
@@ -469,7 +473,9 @@ Resultado del A/B Testing:
 - ![Resultados A](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Maze-Report_Usabilty%20Testing%20A_27_5_2025.pdf)
 - ![Resultados B](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/Maze-Report_Usability%20Testing%20B_27_5_2025.pdf)
 
+<p align="justify">
 Según las respuestas recogidas en el cuestionario, la propuesta A (nuestra propuesta) ha sido percibida como más usable. La mayoría de usuarios indicó que logró completar la tarea principal con mayor facilidad, consideró el diseño más intuitivo y valoró positivamente la estructura clara y el contraste visual. En comparación, la versión B presentó más dificultades en la identificación de elementos interactivos y una navegación menos fluida.
+</p>
 
 
 
