@@ -446,7 +446,25 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Para llevar a cabo el A/B Testing, se han comparado:
+- Proyecto A: nuestra propuesta de "Re-Chapuzeando Re-Made in Granada".
+- Proyecto B: la propuesta de diseño realizada por otro grupo de "Cooking Granada".
+
+Ambas versiones han sido evaluadas utilizando el cuestionario propio diseñado previamente, el cual incluye una tarea guiada (apuntarse a un taller) y nueve preguntas relacionadas con la facilidad de navegación, claridad visual, interacción con elementos, y percepción general del diseño. En los siguientes enlaces podemos ver los cuestionaros para la propuesta A y la propuesta B respectivamente:
+- https://t.maze.co/389415689
+- https://t.maze.co/389444902
+
+Los criterios de evaluación usados son:
+- Facilidad para completar la tarea principal (inscribirse a un taller).
+- Claridad de botones, menús y enlaces.
+- Fluidez de navegación desde el móvil.
+- Diseño visual (colores, jerarquía, atractivo).
+- Valoración general del usuario (pregunta final).
+
+Resultado del A/B Testing:
+Según las respuestas recogidas en el cuestionario, la versión A (nuestra propuesta) ha sido percibida como más usable. La mayoría de usuarios indicó que logró completar la tarea principal con mayor facilidad, consideró el diseño más intuitivo y valoró positivamente la estructura clara y el contraste visual. En comparación, la versión B presentó más dificultades en la identificación de elementos interactivos y una navegación menos fluida.
+
+Por tanto, se concluye que la versión A es más usable según los resultados del cuestionario, especialmente en cuanto a experiencia móvil, claridad visual y orientación del usuario hacia la acción principal.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
