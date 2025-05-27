@@ -390,7 +390,7 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 El caso asignado finalmente ha sido:
 https://github.com/pabloferugr/UX_CaseStudy
 
-Este caso llamado **Granada Cooking** consiste en ofrecer talleres de cocina en Granada, cuyo público objetivo son principalmente turistas y locales que buscan experiencias en el sector de la gastronomía.
+Este caso llamado **Granada Bites** consiste en ofrecer talleres de cocina en Granada, cuyo público objetivo son principalmente turistas y locales que buscan experiencias en el sector de la gastronomía.
 
 
 Tabla y asignación de personas ficticias (o reales) a las pruebas:
@@ -407,7 +407,7 @@ Tabla y asignación de personas ficticias (o reales) a las pruebas:
 ![Método UX](img/usability-testing.png) 
 -----
 <p align="justify">
-Para evaluar la usabilidad y experiencia de usuario, tanto de nuestra propuesta como la de "Granada Cooking", hemos diseñado una prueba que combina observación libre, cuestionarios específicos y el estándar System Usability Scale (SUS).
+Para evaluar la usabilidad y experiencia de usuario, tanto de nuestra propuesta como la de "Granada Bites", hemos diseñado una prueba que combina observación libre, cuestionarios específicos y el estándar System Usability Scale (SUS).
 </p>
 
 En primer lugar, se aplicará un cuestionario propio estructurado en dos partes:
@@ -419,7 +419,7 @@ En primer lugar, se aplicará un cuestionario propio estructurado en dos partes:
 Este mismo cuestionario será aplicado tanto a nuestro proyecto como al de otro grupo, para poder realizar una comparación más rica y objetiva.
 
 <p align="justify">
-Además, se realizará una prueba de eye tracking exclusivamente sobre el proyecto de "Granada Cooking", lo cual permitirá observar de forma más precisa los puntos de atención y posibles bloqueos visuales del diseño analizado.
+Además, se realizará una prueba de eye tracking exclusivamente sobre el proyecto de "Granada Bites", lo cual permitirá observar de forma más precisa los puntos de atención y posibles bloqueos visuales del diseño analizado.
 </p>
 
 <p align="justify">
@@ -439,7 +439,7 @@ Hemos utilizado como parte de la prueba A/B testing el formulario de Google que 
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/45601a7c9d8ba901fb8452ccb62311957ee41b00/P4/FormularioSUS.png)
 
 <p align="justify">
-Como se puede ver en la imagen, el prototipo evaluado A ha salido mejor parado que el B (GranadaBites), con una puntuación ligeramente superior en los diferentes encuestados. Se puede observar que ha sido más complicada de navegar, su facilidad para navegar es menor. Además de disponer de menor contenido y funcionalidades disponibles.
+Como se puede ver en la imagen, el prototipo evaluado A ha salido mejor parado que el B (Granada Bites), con una puntuación ligeramente superior en los diferentes encuestados. Se puede observar que ha sido más complicada de navegar, su facilidad para navegar es menor. Además de disponer de menor contenido y funcionalidades disponibles.
 </p>
 
 ### 4.d A/B Testing
@@ -448,7 +448,7 @@ Como se puede ver en la imagen, el prototipo evaluado A ha salido mejor parado q
 
 Para llevar a cabo el A/B Testing, se han comparado:
 - Proyecto A: nuestra propuesta de "Re-Chapuzeando Re-Made in Granada".
-- Proyecto B: la propuesta de diseño realizada por otro grupo de "Cooking Granada".
+- Proyecto B: la propuesta de diseño realizada por otro grupo de "Granada Bites".
 - 
 <p align="justify">
 Ambas versiones han sido evaluadas utilizando el cuestionario propio diseñado previamente, el cual incluye una tarea guiada (apuntarse a un taller) y nueve preguntas relacionadas con la facilidad de navegación, claridad visual, interacción con elementos, y percepción general del diseño. En los siguientes enlaces podemos ver los cuestionaros para la propuesta A y la propuesta B respectivamente:
