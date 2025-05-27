@@ -493,10 +493,9 @@ Debido a que el landing page eran cuatro pantallas que se utilizan en la aplicac
 
 ![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/2b07bc6c3f4a5f5164a701a20c34f13cc77ddb6d/P4/eyeTracking2.png)
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/master/P4/eyetracking3.png)
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Como podemos observar, en la última imagen del eye tracking, no se fijan apenas en la imagen del alimento, porque nadie se imagina que es un botón a otra página con más información. Tampoco se fijan con detenimiento en el botón de apuntarse, porque en el botón aparece un bolso que no te indica
 
 
 ### 4.f Usability Report de B
