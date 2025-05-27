@@ -66,7 +66,11 @@ Este documento recoge los resultados obtenidos tras aplicar nuestras pruebas al 
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+
+| IDUsuario | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| 3  | H / 23   | Estudiante   | Alta      | Tranquilo y atento   | móvil      | B 
+| 4  | H / 23   | Estudiante  | Alta      | Extrovertido e impaciente    | móvil      | B 
 
 
 
@@ -74,17 +78,23 @@ Este documento recoge los resultados obtenidos tras aplicar nuestras pruebas al 
 
 #### Resultados obtenidos
 
+Cuestionario propio:
+- Inscripción al taller: Ambos participantes señalaron dificultades o confusión.
+- Inicio de sesión: No existe funcionalidad de login, lo que fue percibido como una carencia importante.
+- Facilidad de navegación móvil: Nota media 5.5 sobre 10.
+- Elementos confusos: La navegación por los talleres y la ubicación de información adicional resultaron poco intuitivas.
+- Diseño visual: Se valoró como atractivo, aunque no siempre claro en su funcionamiento.
 
+Cuestionario SUS:
+| Proyecto | Usuario 1    | Usuario 2   |  Media SUS
+| ------------- | -------- | ----------- | ----------- 
+| Remade in Granada  | 72,5   | 77,5   | 75     
+| Granada Bites  |  55   | 70 | 62,5
 
-(resultado de SUS)
+El resultado medio del cuestionario SUS para Granada Bites es de 62,5, lo que indica una usabilidad aceptable pero claramente inferior a la de Re-Made Granada (75,0). Las puntuaciones reflejan una percepción de mayor dificultad en el uso, menor integración de funciones y necesidad de mejora en la claridad del recorrido.
 
-
-
-(resultado de eyetracking)
-
-
-
-
+Eye Tracking:
+Observamos que los usuarios se fijaban en los aspectos a destacar, ya que el rojo contrastaba bien con el blanco. Sin embargo, hay ciertos botones fundamentales como el de inscribirse que apenas eran apreciados.
 
 
 
@@ -93,33 +103,31 @@ Este documento recoge los resultados obtenidos tras aplicar nuestras pruebas al 
 ## 4 CONCLUSIONES 
 
 
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
-
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+- La app carece de funcionalidades clave como el inicio de sesión o un sistema de inscripción.
+- Los flujos de navegación no están claramente definidos.
+- Algunos elementos interactivos no están bien diferenciados del contenido visual.
 
 
 
-#### Valoración 
-
-* (Puntos Positivos a destacar)
+#### Valoración (aspectos positivos)
+- Diseño atractivo a nivel visual.
+- Buen contraste de colores
+- Concepto interesante: unir gastronomía y ocio en un formato taller.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
+- Definir claramente un flujo de inscripción o reserva de plaza.
+- Incluir sistema de inicio de sesión o área de usuario.
+- No hacer clicable una imágen para tener que ir a otra página porque no es nada intuitivo.
+- Establecer claramente un botón para la acción de inscribirse porque el que hay tampoco es intuitivo.
+- Aumentar la coherencia entre diseño visual e interacción funcional.
 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+El uso del cuestionario propio y del sistema SUS ha sido especialmente útil para detectar problemas de navegación, carencias funcionales y debilidades en la interacción. Esta evaluación pone de relieve la necesidad de un diseño más centrado en tareas concretas, que guíe al usuario en todo momento y ofrezca retroalimentación clara.
