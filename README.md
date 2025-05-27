@@ -387,17 +387,13 @@ Las siguientes imágenes resumen de manera breve nuestro UX-Case Study publicado
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
-
 El caso asignado finalmente ha sido:
 https://github.com/pabloferugr/UX_CaseStudy
 
 Este caso llamado **Granada Cooking** consiste en ofrecer talleres de cocina en Granada, cuyo público objetivo son principalmente turistas y locales que buscan experiencias en el sector de la gastronomía.
 
 
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
+Tabla y asignación de personas ficticias (o reales) a las pruebas:
 
 | IDUsuario | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
@@ -484,13 +480,18 @@ Según las respuestas recogidas en el cuestionario, la propuesta A (nuestra prop
 ----
 
 <p align="justify">
-Respecto a este método, hemos utilizado la herramienta <strong>Gaze Recorder</strong>. Para ello utilizaremos diferentes imágenes del prototipo a evaluar. Respecto a cómo se realizará las pruebas, se llevaron a cabo en clase con dos compañeros, bajo nuestra supervisión y dando una serie de instrucciones a estos usuarios para que hagan una tarea en concreto y a partir de ello realizar la evaluación. Definiremos el área de interés (AOI) por boceto que deben reconocer, dejando para ello de 4 a 6 segundos por imagen.
+Respecto a este método, hemos utilizado la herramienta <strong>Gaze Recorder</strong>. Para ello utilizaremos diferentes imágenes del prototipo a evaluar. Respecto a cómo se realizará las pruebas, se llevaron a cabo en clase con dos compañeros, bajo nuestra supervisión y dando una serie de instrucciones a estos usuarios para que hagan una tarea en concreto y a partir de ello realizar la evaluación. Definiremos el área de interés (AOI) por boceto que deben reconocer, dejando para ello de 10 a 15 segundos por imagen.
 
- Para el análisis también hacemos uso de un usuario experto que ya ha utilizado la página y que la conoce, sabiendo donde se encuentran las cosas para acceder rápidamente, y luego los otros usuarios que reclutamos. Esto nos permite comprobar las diferencias existentes entre ambos públicos, y analizar el prototipo que hemos desarrollado. 
+Para el análisis también hacemos uso de un usuario experto que ya ha utilizado la página y que la conoce, sabiendo donde se encuentran las cosas para acceder rápidamente, y luego los otros usuarios que reclutamos. Esto nos permite comprobar las diferencias existentes entre ambos públicos, y analizar el prototipo que hemos desarrollado. 
 </p>
- 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
+<p align="justify">
+Debido a que el landing page eran cuatro pantallas que se utilizan en la aplicación, directamente hemos elegido 3 de las pantallas y hemos utilizado Gaze Recorder con esas imágenes para obtener el mapa de calor. Los resultados que se han generado al trabajar con los diferentes individuos han sido los siguientes:
+</p>
+
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/2b07bc6c3f4a5f5164a701a20c34f13cc77ddb6d/P4/eyeTracking1.png)
+
+![](https://github.com/DIU3-Chapuzas/UX_CaseStudy/blob/2b07bc6c3f4a5f5164a701a20c34f13cc77ddb6d/P4/eyeTracking2.png)
 
 ![experimento](img/experimentoET.png)  
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
